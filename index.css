@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  }
+
+img{
+  margin: 15px;
+  height: 100px;
+  transition: 1.5s;
+}
+
+  
+.row {
+  display: flex;
+  height: 500px;
+  display: flex;
+  align-items: center;
+}
+  
+.active {
+  opacity: 1;
+  height: 470px;
+}
